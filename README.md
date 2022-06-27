@@ -23,8 +23,7 @@
 # How to Run in Command Prompt?
 - Open Command prompt
 - Go Until The POM File is located
-     - Write Below Command
-       "mvn run"
+- Write this Command :- mvn run
 
 # How to find EXTENT REPORT?
   After Finish execution,
